@@ -143,6 +143,7 @@ The resources are intended to help users:
 The tutorials and documentation include practical resources for scholarly research and citation verification, along with documentation for relevant open-source implementations.
 
 **[View Tutorials and Learning Resources](tutorials/tutorials.md)**
+https://github.com/Sravanthi-Citation-AI/Awesome-citation-trust-fabricated-resources/blob/main/tools/tools.md
 
 ## Key Findings
 
@@ -159,6 +160,24 @@ The main lesson is that citation appearance alone is not sufficient evidence of 
 
 ## License
 
-This repository is intended for academic and educational purposes.
+This repository is intended for academic, educational, and research purposes.
 
-Only materials that can legally be shared should be uploaded. Copyrighted research papers should generally be linked through DOI, publisher, PubMed, arXiv, or another authorized source rather than uploaded directly.
+The original materials created for this project, including the README documentation, citation-integrity analysis, research notes, and other original repository content, are released under the **MIT License**.
+
+The MIT License permits others to use, copy, modify, merge, publish, distribute, and adapt the original materials, subject to the terms of the license.
+
+**[View the full MIT License](LICENSE)**
+
+### Third-Party Materials
+
+Some resources referenced in this repository are created and maintained by third parties. These include research papers, datasets, software tools, GitHub repositories, and external documentation.
+
+Third-party materials remain subject to their respective copyright, licenses, and terms of use. This repository does not claim ownership of those materials.
+
+Where possible, external resources are referenced through their official websites, DOI records, publisher pages, or original GitHub repositories.
+
+Users should check the individual license and usage requirements of any third-party resource before downloading, modifying, redistributing, or using it.
+
+### Academic Use
+
+This repository is designed to support academic research, learning, citation verification, and exploration of AI-generated resources. Users are encouraged to properly acknowledge and cite the original authors and sources when using information or resources referenced in this project.
