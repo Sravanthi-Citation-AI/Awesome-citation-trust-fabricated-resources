@@ -113,23 +113,36 @@ Each resource should be independently checked before being included.
 
 ## GitHub Implementations
 
-This section contains relevant GitHub projects and implementations related to citation verification, AI-generated text, hallucination detection, and research assistance.
+This section contains open-source GitHub projects related to citation verification, AI-generated content, hallucination detection, and citation-integrity analysis.
 
-- Implementation 1
-- Implementation 2
-- Implementation 3
-- Implementation 4
-- Implementation 5
+The implementations include:
+
+- **RefChecker:** Fine-grained hallucination detection and claim verification for LLM outputs.
+- **HALLMARK:** Benchmarking and evaluation of citation-hallucination detection.
+- **BibTeX Verifier:** Verification of bibliographic references against scholarly metadata sources.
+- **CheckIfExist / References-Validation:** Multi-source validation of academic references.
+- **CiteTracer:** Structured verification of citation fields and detection of citation hallucinations.
+
+These implementations demonstrate different approaches to checking whether generated information and references are supported by reliable evidence. For example, RefChecker breaks generated claims into smaller knowledge units and checks them against reference evidence. :contentReference[oaicite:0]{index=0}
+
+**[View GitHub Implementations](implementations/github-repositories.md)**
 
 ## Tutorials and Learning Resources
 
-Learning resources related to academic research, citation verification, generative AI, and research integrity will be collected here.
+This section provides learning resources for understanding citation verification, research integrity, scholarly search, generative AI, and hallucination detection.
 
-- Tutorial or documentation 1
-- Tutorial or documentation 2
-- Tutorial or documentation 3
-- Tutorial or documentation 4
-- Tutorial or documentation 5
+The resources are intended to help users:
+
+- Understand how to verify academic references
+- Check DOI and bibliographic metadata
+- Identify potentially fabricated citations
+- Understand hallucinations in large language models
+- Learn how citation verification tools work
+- Improve research and source-evaluation practices
+
+The tutorials and documentation include practical resources for scholarly research and citation verification, along with documentation for relevant open-source implementations.
+
+**[View Tutorials and Learning Resources](tutorials/tutorials.md)**
 
 ## Key Findings
 
