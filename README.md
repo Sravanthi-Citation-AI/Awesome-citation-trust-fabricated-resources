@@ -96,10 +96,7 @@ In the completed audit, 10 references were examined. 9 were verified and 1 was c
 ## Datasets
 
 Datasets relevant to citation verification, AI-generated text, source credibility, and hallucination detection will be added here after verification.
-
-- Dataset name: Description and application
-- Dataset name: Description and application
-- Dataset name: Description and application
+https://github.com/Sravanthi-Citation-AI/Awesome-citation-trust-fabricated-resources/blob/main/datasets/datasets.md
 
 ## Tools and Libraries
 
