@@ -32,7 +32,7 @@ The work examines citation credibility, authenticity, source verification, AI-ge
 
 This AI-assisted research paper examines how citation presentation and credibility cues may influence human trust in information containing fabricated or unreliable resources. The original paper was generated as part of the AI-assisted citation-integrity activity.
 
-**[View AI-Assisted Research Paper](paper/AI_Assisted_Research_Paper.pdf)**
+**[View AI-Assisted Research Paper]**
 https://github.com/Sravanthi-Citation-AI/Awesome-citation-trust-fabricated-resources/blob/main/paper/AI_Assisted_Research_Paper.PDF
 
 ## Citation Integrity Audit
